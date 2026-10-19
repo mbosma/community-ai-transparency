@@ -59,9 +59,10 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at the contact
-listed here: **Open question: the enforcement contact for Public Ledger is not
-set yet.** All complaints will be reviewed and investigated promptly and fairly.
+reported to the community leaders responsible for enforcement. Until a
+dedicated enforcement channel is set up, contact the project maintainer,
+[@mbosma](https://github.com/mbosma), on GitHub. All complaints will be
+reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
