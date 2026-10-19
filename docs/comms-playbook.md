@@ -9,8 +9,8 @@ platform.**
 
 ## Why
 
-X Original Content Rewards treats content made by automated means as
-ineligible. See [funding-model.md](funding-model.md).
+Public Ledger's standing trust and transparency rule: agents draft, a person
+approves and posts.
 
 ## Approval checklist
 
